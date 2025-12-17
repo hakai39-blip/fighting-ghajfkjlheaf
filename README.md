@@ -23,3 +23,6 @@ View your app in AI Studio: https://ai.studio/apps/drive/1b1xVrVGXzgG91VdWJKdumX
 # fighting-ghajfkjlheaf
 fighting game
 >>>>>>> d7170d97196a237769337b6c1e1bb3820e1a6d88
+
+
+テスト用
