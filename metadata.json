@@ -1,0 +1,5 @@
+{
+  "name": "Neon Fighter 2D",
+  "description": "A fast-paced 1v1 2D fighting game against an AI opponent. Master three unique attacks, manage your spacing, and defeat your enemy within 90 seconds.",
+  "requestFramePermissions": []
+}
